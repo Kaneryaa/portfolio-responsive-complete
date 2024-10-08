@@ -25,7 +25,10 @@
 
    ![image](https://github.com/user-attachments/assets/5a33441a-4fcd-451a-bce9-980c896c499f)
 
-   # Update package information and install Docker
+Sure! Here are the terminal commands without any additional text:
+
+```bash
+# Update package information and install Docker
 sudo apt update
 sudo apt install -y docker.io
 
@@ -37,7 +40,6 @@ sudo systemctl enable docker
 docker --version
 
 
-
 # Verify the Docker Compose installation
 docker-compose --version
-
+```
