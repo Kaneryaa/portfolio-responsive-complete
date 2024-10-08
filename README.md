@@ -43,4 +43,7 @@ sudo apt-get install docker-compose -y
 
 # Verify the Docker Compose installation
 docker-compose --version
+
+# clone the repository from the github
+git clone https://github.com/Kaneryaa/portfolio-responsive-complete.git
 ```
