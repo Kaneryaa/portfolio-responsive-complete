@@ -25,7 +25,6 @@
 
    ![image](https://github.com/user-attachments/assets/5a33441a-4fcd-451a-bce9-980c896c499f)
 
-Sure! Here are the terminal commands without any additional text:
 
 ```bash
 # Update package information and install Docker
