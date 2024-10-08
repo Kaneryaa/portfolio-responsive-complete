@@ -38,6 +38,8 @@ sudo systemctl enable docker
 # Verify the Docker installation
 docker --version
 
+# Install Docker Compose
+sudo apt-get install docker-compose -y
 
 # Verify the Docker Compose installation
 docker-compose --version
