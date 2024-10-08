@@ -24,3 +24,20 @@
 8. Once the instance is created, you’ll see the new EC2 instance named `nimap` in your dashboard.
 
    ![image](https://github.com/user-attachments/assets/5a33441a-4fcd-451a-bce9-980c896c499f)
+
+   # Update package information and install Docker
+sudo apt update
+sudo apt install -y docker.io
+
+# Start the Docker service and enable it to start on boot
+sudo systemctl start docker
+sudo systemctl enable docker
+
+# Verify the Docker installation
+docker --version
+
+
+
+# Verify the Docker Compose installation
+docker-compose --version
+
